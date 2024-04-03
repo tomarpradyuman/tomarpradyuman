@@ -32,6 +32,12 @@
 
 ### 💻 &nbsp;Languages:
 
+
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
+
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -75,11 +81,4 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
 </p> --> -->
 
-<hr />
->
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=Travel_Buddy_ReactNative&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-    <a href="https://github.com/pradyumantomar/pradyumantomar">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
+
