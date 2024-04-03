@@ -34,8 +34,7 @@
 
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
+
 
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -45,6 +44,8 @@
 
 ### 🚀 &nbsp;Technologies:
 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -79,6 +80,6 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyumantomar&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
-</p> --> -->
+</p> 
 
 
